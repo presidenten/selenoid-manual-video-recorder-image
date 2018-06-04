@@ -12,3 +12,4 @@ until [ $retcode -eq 0 ]; do
     sleep 0.1
   fi
 done
+echo 'Connected!'
